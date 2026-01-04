@@ -20,7 +20,7 @@ The project includes simulation using Icarus Verilog and waveform visualization 
     4.  Observe signals:
 - clk, reset, vote_a, vote_b, count_a, count_b
 ## Waveform Screenshot
-![Waveform](Waveform.png)
+Waveform screenshot available locally. Simulated using GTKWave.
 ## Author
 Akanksha Rahinj  
 GitHub: [https://github.com/Akanksha-Rahinj](https://github.com/Akanksha-Rahinj)
